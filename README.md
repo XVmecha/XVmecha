@@ -2,7 +2,7 @@
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning stock forecasting
 - 💞️ I’m looking to collaborate on Graph convoultional networks
-- 📫 How to reach me ...
+- 📫 How to reach me by smoking weed and thinking about my name
 
 <!---
 XVmecha/XVmecha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
