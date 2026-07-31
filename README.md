@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @XVmecha
-- 👀 I’m interested in machine learning
-- 🌱 I’m currently learning stock forecasting
-- 💞️ I’m looking to collaborate on Graph convoultional networks
+- This is my personal github profile
+- I do passion projects here
+- Specialised in timeseries and graph AI.
 
 <!---
 XVmecha/XVmecha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
